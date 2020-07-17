@@ -1,4 +1,2 @@
-### Hey there!!!
-[![Yo Count](http://hits.dwyl.com/prashant-raghu/prashant-raghu.svg)][hits]
-
-[hits]:http://hits.dwyl.com/prashant-raghu/prashant-raghu
+### Hey there,
+My prime interests are algorithms and Backend. The work I do usually boils down to Javascript and C++.
